@@ -14,4 +14,4 @@
 * **Age**: 25
 * **Living in**: Niterói - RJ, Brazil
 * **Stack**: Java - Spring - SQL - Azure - AWS
-* **University**: Centro Universitário La Salle RJ - Sistemas de Informação
+* **University**: Centro Universitário La Salle RJ - Information Technology
