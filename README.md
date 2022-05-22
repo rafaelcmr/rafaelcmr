@@ -1,5 +1,5 @@
 <div>
-    <a target='_blank' href="https://twitch.tv/danielhe4rt">
+    <a target='_blank' href="https://twitter.com/rafael_cmr">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
     <a target='_blank' href="https://twitter.com/danielhe4rt">
